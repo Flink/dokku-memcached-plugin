@@ -63,6 +63,11 @@ Memcached information:
 dokku memcached:info foo
 ```
 
+Notes
+-----
+
+Each container will allocate 64 MB of memory for caching (`memcached -m 64`) as a hard-coded value.
+
 Thanks
 ------
 
