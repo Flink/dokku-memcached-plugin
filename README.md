@@ -1,5 +1,7 @@
-Memcached plugin for Dokku
+(DEPRECATED) Memcached plugin for Dokku
 --------------------------
+
+DEPRECATED, USE OFFICIAL DOKKU MEMCACHED PLUGIN INSTEAD
 
 Project: https://github.com/progrium/dokku
 
